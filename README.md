@@ -4,9 +4,9 @@
 
 ## Why this app?
 
-I needed an alarm app that would actually help me GET UP from bed, rather than simply give another button to press while half-asleep.
+I was looking for alarm apps that would genuinely help users get out of bed, rather than simply provide another button to press while half-asleep.
 
-At first, I looked for mobile apps with similar ideas, but many of them involved paid subscriptions or had complex user interfaces. All I wanted was a strict alarm app that does its job without making the user figure out *how* to use the app first.
+Initially, I explored several mobile apps with similar concepts. However, many of them relied on paid subscriptions or had complex user interfaces. What I was looking for was a simple, strict alarm app that would effectively get the user out of bed without requiring them to first figure out how to use the app.
 
 So while building "No Snooze Alarm" I've deliberately ensured it was:
 
@@ -40,13 +40,13 @@ The user can combine different challenges for each alarm and choose how many you
 2. **Choosing wake-up challenges:** the user can select the combination of challenges, along with the number of challenges and their difficulty.
 
    <p align="center">
-     <img src="docs/screenshots/mission-set.jpg" alt="Setting the mission" width="250">
+     <img src="docs/screenshots/mission-set.jpeg" alt="Setting the mission" width="250">
    </p>
 
 3. **Setting optional bedtime reminders:** the user can set an ideal bedtime and receive reminders before it to help wind down and get ready for bed.
 
    <p align="center">
-     <img src="docs/screenshots/bedtime.jpg" alt="Ideal Bedtime Setting" width="250">
+     <img src="docs/screenshots/bedtime.jpeg" alt="Ideal Bedtime Setting" width="250">
    </p>
 
 4. The alarm locks one hour before it rings — once it's locked, the alarm cannot be edited, deleted, or disabled. This prevents last-minute changes.
@@ -54,13 +54,13 @@ The user can combine different challenges for each alarm and choose how many you
 5. When the alarm rings, there's only one snooze allowed — the user can snooze the alarm ONCE for 15 minutes. After that, there is no option to snooze, nor directly dismiss the alarm.
 
    <p align="center">
-     <img src="docs/screenshots/alarm.jpg" alt="Alarm ringing screen" width="250">
+     <img src="docs/screenshots/alarm.jpeg" alt="Alarm ringing screen" width="250">
    </p>
 
 6. The user has to start solving their challenge to silence the alarm. The goal is to get the user physically and mentally engaged rather than allowing the alarm to be dismissed while half-asleep.
 
    <p align="center">
-     <img src="docs/screenshots/mission.jpg" alt="Mission solving screen" width="250">
+     <img src="docs/screenshots/mission.jpeg" alt="Mission solving screen" width="250">
    </p>
 
 7. The challenges could be among: math, memory, logic, physical, or photo challenges. By the time the challenges are completed, the goal is for the user to be awake enough that going straight back to sleep is no longer tempting.
@@ -68,8 +68,8 @@ The user can combine different challenges for each alarm and choose how many you
 8. Still not wide awake? There's the option to keep going. After completing the initial challenges, the user can choose "I DON'T FEEL WIDE AWAKE YET" to take on additional challenges.
 
    <p align="center">
-     <img src="docs/screenshots/notawake1.jpg" alt="Not-awake screen 1" width="250">
-     <img src="docs/screenshots/notawake2.jpg" alt="Not-awake screen 2" width="250">
+     <img src="docs/screenshots/notawake1.jpeg" alt="Not-awake screen 1" width="250">
+     <img src="docs/screenshots/notawake2.jpeg" alt="Not-awake screen 2" width="250">
    </p>
 
 9. If the user stops interacting with an unfinished challenge for too long, the alarm starts ringing again.
